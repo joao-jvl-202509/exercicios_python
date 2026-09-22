@@ -68,6 +68,16 @@ Cada exercício pode ser executado separadamente.
 | 09 | `exercicio-09.py` | Classifica a situação de um estudante de acordo com sua média. |
 | 10 | `exercicio-10.py` | Verifica se uma pessoa possui idade mínima para votar. |
 
+### Parte 3 - Repetição com while
+
+| Nº | Arquivo | Descrição |
+|---:|---|---|
+| 11 | `exercicio-11.py` | Exibe os números de 1 a 10. |
+| 12 | `exercicio-12.py` | Soma números digitados até que o usuário informe 0. |
+| 13 | `exercicio-13.py` | Solicita uma senha até que a senha correta seja informada. |
+| 14 | `exercicio-14.py` | Exibe a tabuada de um número de 1 a 10. |
+| 15 | `exercicio-15.py` | Conta os números positivos digitados até que o usuário informe 0. |
+
 ## Observação
 
 Os exercícios foram desenvolvidos como parte das atividades da unidade curricular de Desenvolvimento de Sistemas e possuem diferentes níveis de dificuldade.
