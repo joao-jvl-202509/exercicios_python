@@ -58,6 +58,16 @@ Cada exercício pode ser executado separadamente.
 | 04 | `exercicio-04.py` | Converte uma temperatura de Celsius para Fahrenheit. |
 | 05 | `exercicio-05.py` | Calcula o valor total de produtos a partir do preço e da quantidade. |
 
+### Parte 2 - Condicionais
+
+| Nº | Arquivo | Descrição |
+|---:|---|---|
+| 06 | `exercicio-06.py` | Verifica se um número é par ou ímpar. |
+| 07 | `exercicio-07.py` | Compara dois números e identifica o maior ou se são iguais. |
+| 08 | `exercicio-08.py` | Identifica se um número é positivo, negativo ou zero. |
+| 09 | `exercicio-09.py` | Classifica a situação de um estudante de acordo com sua média. |
+| 10 | `exercicio-10.py` | Verifica se uma pessoa possui idade mínima para votar. |
+
 ## Observação
 
 Os exercícios foram desenvolvidos como parte das atividades da unidade curricular de Desenvolvimento de Sistemas e possuem diferentes níveis de dificuldade.
