@@ -48,6 +48,16 @@ Cada exercício pode ser executado separadamente.
 
 ## Índice dos exercícios
 
+### Parte 1 - Variáveis, entrada e saída
+
+| Nº | Arquivo | Descrição |
+|---:|---|---|
+| 01 | `exercicio-01.py` | Cria variáveis com nome e idade e exibe os valores. |
+| 02 | `exercicio-02.py` | Solicita dois números e calcula a soma. |
+| 03 | `exercicio-03.py` | Calcula a área de um círculo a partir do raio. |
+| 04 | `exercicio-04.py` | Converte uma temperatura de Celsius para Fahrenheit. |
+| 05 | `exercicio-05.py` | Calcula o valor total de produtos a partir do preço e da quantidade. |
+
 ## Observação
 
 Os exercícios foram desenvolvidos como parte das atividades da unidade curricular de Desenvolvimento de Sistemas e possuem diferentes níveis de dificuldade.
