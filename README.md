@@ -9,16 +9,12 @@ Instituição: SESI Escola de Referência
 
 ## Descrição
 
-Este repositório contém 25 exercícios desenvolvidos durante as aulas de Python. Os exercícios têm como objetivo praticar conceitos básicos de programação, como variáveis, entrada e saída de dados, estruturas condicionais, estruturas de repetição e cálculos.
+Este repositório contém 25 exercícios desenvolvidos durante as aulas de Python. Os exercícios têm como objetivo praticar conceitos básicos de programação, como variáveis, entrada e saída de dados, estruturas condicionais, estruturas de repetição e listas.
 
 ## Tecnologia utilizada
 
 * Linguagem: Python
-* Versão: Python 3.x.x
-
-Para verificar a versão do Python instalada no computador, utilize:
-
-python --version
+* Versão: Python 3.14.0
 
 ## Como executar
 
