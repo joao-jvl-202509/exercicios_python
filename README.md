@@ -2,10 +2,10 @@
 
 ## Identificação
 
-**Nome** : João Vitor Lourenço
-**Turma**: 1º ano do Ensino Médio
-**Unidade Curricular**: Desenvolvimento de Sistemas
-**Instituição**: SESI Escola de Referência
+**Nome** : João Vitor Lourenço  
+**Turma**: 2º ano do Ensino Médio  
+**Unidade Curricular**: Desenvolvimento de Sistemas  
+**Instituição**: SESI Escola de Referência  
 
 ## Descrição
 
@@ -28,21 +28,29 @@ https://www.python.org/
 
 Clone este repositório utilizando o Git:
 
-git clone url_do_repositorio
+```bash
+git clone "https://github.com/joao-jvl-202509/exercicios_python"
+```
 
 Depois, entre na pasta:
 
+```bash
 cd exercicios_python
+```
 
 ### 3. Executar um exercício
 
 Para executar um exercício específico, utilize o comando:
 
+```bash
 python nome_do_arquivo.py
+```
 
 Por exemplo:
 
+```bash
 python exercicio01.py
+```
 
 Cada exercício pode ser executado separadamente.
 
