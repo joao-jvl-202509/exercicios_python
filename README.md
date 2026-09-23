@@ -88,6 +88,16 @@ Cada exercício pode ser executado separadamente.
 | 19 | `exercicio-19.py` | Calcula o fatorial de um número. |
 | 20 | `exercicio-20.py` | Realiza uma contagem regressiva de 10 até 1 e exibe "Fim". |
 
+### Parte 5 - Listas
+
+| Nº | Arquivo | Descrição |
+|---:|---|---|
+| 21 | `exercicio-21.py` | Cria uma lista com cinco números e exibe seus itens. |
+| 22 | `exercicio-22.py` | Calcula a soma dos itens de uma lista. |
+| 23 | `exercicio-23.py` | Encontra o maior valor presente em uma lista. |
+| 24 | `exercicio-24.py` | Conta quantos itens da lista são maiores que 10. |
+| 25 | `exercicio-25.py` | Exibe os itens de uma lista na ordem inversa. |
+
 ## Observação
 
 Os exercícios foram desenvolvidos como parte das atividades da unidade curricular de Desenvolvimento de Sistemas e possuem diferentes níveis de dificuldade.
