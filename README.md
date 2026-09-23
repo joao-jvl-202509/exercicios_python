@@ -78,6 +78,16 @@ Cada exercício pode ser executado separadamente.
 | 14 | `exercicio-14.py` | Exibe a tabuada de um número de 1 a 10. |
 | 15 | `exercicio-15.py` | Conta os números positivos digitados até que o usuário informe 0. |
 
+### Parte 4 - Repetição com for
+
+| Nº | Arquivo | Descrição |
+|---:|---|---|
+| 16 | `exercicio-16.py` | Exibe os números de 1 a 20. |
+| 17 | `exercicio-17.py` | Exibe os números pares de 2 a 20. |
+| 18 | `exercicio-18.py` | Calcula a soma dos números de 1 a 100. |
+| 19 | `exercicio-19.py` | Calcula o fatorial de um número. |
+| 20 | `exercicio-20.py` | Realiza uma contagem regressiva de 10 até 1 e exibe "Fim". |
+
 ## Observação
 
 Os exercícios foram desenvolvidos como parte das atividades da unidade curricular de Desenvolvimento de Sistemas e possuem diferentes níveis de dificuldade.
